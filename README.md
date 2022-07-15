@@ -1,3 +1,9 @@
+## FAQ
+
+​	现在使用的luajit版本是：xLua - v2.1.16_android_release_lib 的版本；
+
+
+
 xLua常用库集成
 =====
 
